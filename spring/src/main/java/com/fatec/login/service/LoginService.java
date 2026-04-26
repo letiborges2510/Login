@@ -1,7 +1,7 @@
 package com.fatec.login.service;
 
 
-import com.fatec.login.model.Login;
+import com.example.domain.model.Login;
 import com.fatec.login.repository.LoginRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
